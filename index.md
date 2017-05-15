@@ -1,9 +1,9 @@
 ## **Galaxy-P Summer 2017 Workshop**
 
-### **(SW1) The Galaxy platform for metaproteomic characterization of microbiomes**
-Saturday, March 25, 2017 (8:00 am - 12 noon; lunch from 12 noon - 1:00 pm) 
+### ** Galaxy-P in the Cloud: Proteomic Informatics on JetStream **
+Wednesday, June 7th, 2017 (5:45 pm - 7:00 pm) 
 
-**Instructors:** Tim Griffin, Pratik Jagtap, and James Johnson
+**Instructors:** Tim Griffin, Pratik Jagtap, and Jeremy Fischer
 
 [http://conf.abrf.org/the-galaxy-platform](http://conf.abrf.org/the-galaxy-platform){:target="_blank"}
 
@@ -24,7 +24,7 @@ With a focus on metaproteomics for characterizing microbiomes, we will help part
 <br>
 
 **Workshop Schedule:**
-<br> _Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)_
+<br> _Wednesday, June 7th, 2017 (5:45 pm - 7:00 pm)_
  
 - Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
  
